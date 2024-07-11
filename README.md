@@ -1,3 +1,4 @@
+### This is Only README no code is provided here
 # Automated Colour Correction
 
 Automated Colour Correction is an AI-powered tool designed to streamline the workflow of professional photographers, particularly those in the wedding industry. By uploading raw photos, photographers can let our algorithms predict and apply the best color corrections, drastically reducing manual editing time. The tool also allows for manual adjustments and batch processing of photos, ensuring both efficiency and high-quality results. It can Do task of 7-8 hours in 2-3 Minutes
@@ -9,13 +10,8 @@ Professional photographers often spend countless hours manually editing photos t
 ## Product Overlook
 - [Final Presentation](./Presentration.pdf)
 - [Video Of Website](https://youtu.be/ypNMGmxHNFA)
-- ![a](./code/react-photo-editor/photos/res.png)
-- For More photos go to 
-    ```sh
-    cd code 
-    cd react-photo-editor
-    cd photos
-    ```
+
+
 
 ## Features
 - **AI-Powered Color Correction**: Utilizes advanced neural networks to predict and apply optimal color corrections.
@@ -26,45 +22,19 @@ Professional photographers often spend countless hours manually editing photos t
 ## Concepts and Technologies Used
 - **Machine Learning Models**: ResNet, Artificial Neural Networks, Regression
 - **Frontend Development**: React
+- **Backend Development**: Flask
 - **Image Processing**: OpenCV
 - **Dataset**: Adobe 5k
 
 ## Requirements and Dependencies
 - Python 
 - React
+- Flask
 - OpenCV
 - TensorFlow (for implementing neural networks)
 - Adobe 5k Dataset
 
-## Directory Structure
-![Alt text](./DirStructure.png)
 
-
-
-## Installation and Setup
-1. **Clone the repository:**
-    ```sh
-    
-    git clone https://github.com/harsh-gupta10/Automated-Colour-Correction.git
-    cd Automated-Colour-Correction
-    ```
-
-
-2. **To Start Frontend:**
-    ```sh
-    cd code 
-    cd react-photo-editor
-    npm install
-    npm run dev 
-    ```
-
-3. **To Start Backend**
-    ```sh
-    cd code 
-    cd react-photo-editor
-    cd Backend
-    flask run
-    ```
 
 ## Usage
 1. **Upload Photos**: Drag and drop or select raw photos Folder to upload.
@@ -75,16 +45,6 @@ Professional photographers often spend countless hours manually editing photos t
 ## Further Work
 - **Model Improvements**: Enhance the accuracy and efficiency of the AI models.
 - **Setup PipeLIne** For Now It is only a testing Application. No proper Integration Of Ml Model with UI.
-
-## Contributing
-We welcome contributions from the community. Please fork the repository, create a branch, and submit a pull request for review.
-
-## Contributors
-- [Abhinav Raundhal](https://www.linkedin.com/in/abhinav-raundhal-2355192a8/)
-- [Ishan Gupta](https://github.com/Ishan-1)
-- [Sujal Deoda](https://github.com/Su-1042)
-- [Yattapu Deekshitha](https://github.com/deekshitha12345)
-
 
 
 ## Documentation
