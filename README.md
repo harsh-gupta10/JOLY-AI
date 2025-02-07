@@ -1,5 +1,4 @@
-### This is Only README no code is provided here
-# Automated Colour Correction
+# JOLLY AI
 
 Automated Colour Correction is an AI-powered tool designed to streamline the workflow of professional photographers, particularly those in the wedding industry. By uploading raw photos, photographers can let our algorithms predict and apply the best color corrections, drastically reducing manual editing time. The tool also allows for manual adjustments and batch processing of photos, ensuring both efficiency and high-quality results. It can Do task of 7-8 hours in 2-3 Minutes
 
@@ -46,29 +45,5 @@ Professional photographers often spend countless hours manually editing photos t
 - **Model Improvements**: Enhance the accuracy and efficiency of the AI models.
 - **Setup PipeLIne** For Now It is only a testing Application. No proper Integration Of Ml Model with UI.
 
-
-## Documentation
-### Minutes of Meetings (MOMs)
-All MOMs with the client and internal team meetings are documented in the `MOM` directory. This includes detailed notes on discussions, decisions made, and action items.
-
-### Design Document
-The design document, located in the `docs/DesignDoc.pdf` , provides a comprehensive overview of the system architecture, including diagrams and detailed descriptions of each component.
-
-### Project Plan
-The project plan, found in the `docs/Project_plan` directory, outlines the timeline, milestones, and deliverables for the project. It also includes risk assessments and mitigation strategies.
-
-### Software Requirements Specification (SRS)
-The SRS document, available in the `docs/SRS_document` directory, defines the functional and non-functional requirements of the project, ensuring all stakeholder needs are addressed.
-
-### Status Tracker
-The status tracker, located in the `docs/Status_Tracker` directory, provides an ongoing log of project progress, including completed tasks, upcoming milestones, and any issues encountered.
-
-### Test Plan
-The test plan, found in the `docs/Test_plan` directory, outlines the testing strategy, test cases, and testing schedule to ensure the quality and reliability of the application.
-
-### Project Synopsis
-The project synopsis, available in the `docs/Project_Synopsis` directory, provides a summary of the project, including objectives, key features, and outcomes.
-
----
 
 Say goodbye to tedious editing tasks and hello to efficiency and excellence with Automated Colour Correction!
